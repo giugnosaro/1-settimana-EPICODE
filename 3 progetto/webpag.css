@@ -1,0 +1,49 @@
+header {text-align: center;}
+
+header img {text-align: center;
+            border: 0px rgb(255, 255, 255) ;
+            }
+              /* modifico il contenuto dentro header h4 */
+header h4 {border-top: 1px solid greenyellow ; 
+           padding: 1em;
+           background-color: rgba(195, 255, 127, 0.151);
+           color: rgb(41, 55, 56);}  
+              /* contenut dentro il mio div centro il tutto*/
+#prima    {text-align: center;}      
+                  /*modifico dimensioni img focaccia*/ 
+img {border: 1px dotted black;
+     border-radius: 10px;
+     padding: 0px;
+     background-color: white;}
+
+.p_primo{
+          color: rgba(53, 52, 51, 0.61);
+         } 
+#secondo{ text-align: center;}
+           /* vado a sistemare il testo feature alla sinistra del 50% di float left*/
+#secondo p {margin: 0%;
+            text-align: center;
+            float: left;
+            width: 50%;
+            color: rgb(255, 38, 0); }
+#secondo .p_secondo {margin-bottom: 3%;
+                     text-align: center;
+                     float: left;
+                     width: 70%;
+                     color: rgb(0, 174, 255);
+                     }
+#secondo h3 {text-align: center;
+             float: left;
+             width: 48%;
+             margin-bottom: 3%;
+             margin-right: 100%;}  
+#secondo p {margin-bottom: 1%;
+             color: black;}
+#secondo ul {text-align: left;
+             float: left;
+             padding-left: 20%;
+            } 
+#uluno {text-align: left;
+    float: left;
+    padding-left: 20%;}            
+                                                    
